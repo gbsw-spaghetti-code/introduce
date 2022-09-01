@@ -1,6 +1,6 @@
 # 프로젝트 개요
 <p>
-  모르는 코드를 질문하며 소통을하는 사이트 <p style="color: blue;">Code Wave</p>를 소개하는 README입니다.
+  모르는 코드를 질문하며 소통을하는 사이트 <p style=color: blue;>Code Wave</p>를 소개하는 README입니다.
 </p>
 
 
