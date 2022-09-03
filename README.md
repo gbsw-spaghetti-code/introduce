@@ -10,9 +10,9 @@
   - <a href="#개발-동기">개발 동기</a>
   - <a href="#수행-목표">수행 목표</a>
 * <a href="#팀원-소개">팀원 소개</a>
-  - <a href="#이름">이름</a>
 * <a href="#사용-기술">사용 기술</a>
   - <a href="#개발에-사용한-기술">개발에 사용한 기술</a>
+* <a href="#프로젝트-일정">프로젝트 일정</a>
 
 ## 프로젝트 주제
 <p>
@@ -20,13 +20,12 @@
 </p>
 
 ## 개발 동기
-<p> Stack overflow 사이트는 영어를 주로 사용하는 사이트여서 영어를 번역하지 못하거나,</p>
-<p> 번역기를 돌리는 번거로움과 번역이 이상하게 되는 불편함이 많아서 만들기로 결정함</p>
+<p> Stackoverflow 사이트는 영어를 주로 사용하는 사이트여서 영어를 번역하지 못하거나,</p>
+<p> 번역기를 돌리는 번거로움과 번역이 이상하게 되는 불편함이 많아서 만들기로 결정하였습니다.</p>
 
 ## 수행 목표
 
 ## 팀원 소개
-### 이름
 
 <p>박경민(팀장, 백엔드)</p>
 <p>권시경(팀원, 프론트엔드)</p>
@@ -46,3 +45,5 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></img>
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></img>
 </p>
+
+## 프로젝트 일정
