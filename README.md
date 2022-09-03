@@ -9,7 +9,7 @@
   - <a href="#프로젝트-주제">프로젝트 주제</a>
   - <a href="#개발-동기">개발 동기</a>
   - <a href="#수행-목표">수행 목표</a>
-* <a href="#팀-소개">팀 소개</a>
+* <a href="#팀원-소개">팀원 소개</a>
   - <a href="#이름">이름</a>
 * <a href="#사용-기술">사용 기술</a>
   - <a href="#개발에-사용한-기술">개발에 사용한 기술</a>
@@ -25,9 +25,13 @@
 
 ## 수행 목표
 
-## 팀 소개
+## 팀원 소개
 ### 이름
 
+<p>박경민(팀장, 백엔드)</p>
+<p>권시경(팀원, 프론트엔드)</p>
+<p>김동혁(팀원, 프론트엔드)</p>
+<p>박민규(팀원, 프론트엔드)<p>
 
 ## 사용 기술
 ### 개발에 사용한 기술
@@ -37,7 +41,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></img>
 </p>
 <p>백엔드 -
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></img>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></img>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></img>
 </p>
