@@ -47,3 +47,8 @@
 </p>
 
 ## 프로젝트 일정
+
+## 설계
+
+### 데이터베이스 설계
+<img src="https://spaghetti-listener.s3.ap-northeast-2.amazonaws.com/public/erd.png"></img>
