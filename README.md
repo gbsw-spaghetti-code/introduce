@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></img>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></img>
 <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></img>
+<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></img>
 </p>
 <p>백엔드 -
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></img>
