@@ -81,6 +81,9 @@
   </p>
   
   #### 백엔드
+  <p>
+  1. 추가 기능 개발
+  </p>
   
 ## 결과 및 발표 자료
 
@@ -88,6 +91,8 @@
 <a href="https://github.com/gbsw-spaghetti-coder">
   CODE WAVE
 </a>
+
+
   
   
 
