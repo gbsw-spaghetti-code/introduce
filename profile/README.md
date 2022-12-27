@@ -35,9 +35,10 @@
 
 <p>박경민 <br />
 - 팀장 <br />
-- kyungparkmin@naver.com
+- kyungparkmin@naver.com <br />
+- <a href="github.com/kyungparkmin">깃허브</a>
 </p>
-<a href="github.com/kyungparkmin">깃허브</a>
+
 
 
 ## 사용 기술
