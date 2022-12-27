@@ -36,25 +36,25 @@
 <p>박경민 <br />
 - 팀장 & 백엔드 <br />
 - kyungparkmin@naver.com <br />
-- <a href="https://github.com/kyungparkmin">깃허브</a>
+- <a href="https://github.com/kyungparkmin">github : kyungparkmin</a>
 </p>
 
 <p>박민규 <br />
 - 팀원 & 프론트엔드 <br />
 - mingyu9570@gmail.com <br />
-- <a href="https://github.com/mingyu-0713">깃허브</a>
+- <a href="https://github.com/mingyu-0713">github : mingyu-0713</a>
 </p>
 
 <p>권시경 <br />
 - 팀원 & 백엔드 <br />
 - kwonsigyeong0803@gmail.com <br />
-- <a href="https://github.com/kwonsigyeong">깃허브</a>
+- <a href="https://github.com/kwonsigyeong">github : kwonsigyeong</a>
 </p>
 
 <p>김동혁 <br />
 - 팀원 & 프론트엔드 <br />
 - kdh1022255@gmail.com <br />
-- <a href="https://github.com/Hot-dong">깃허브</a>
+- <a href="https://github.com/Hot-dong">github : Hot-dong</a>
 </p>
 
 ## 사용 기술
@@ -92,22 +92,22 @@
 
 #### 프론트엔드
 
-##### 메인 페이지
+##### 메인 페이지 - 메인페이지에서 헤더에는 로그인과 회원가입, 마이페이지, 카테고리를 갈 수 있는 내비게이션이 있으며, 글 리스트와 글 작성버튼이 포함돼있습니다.
 <img src="https://user-images.githubusercontent.com/90837142/209602746-e8cff9e7-e78e-46c3-86be-81b91e1ba7ab.gif"></img>
 
-##### 로그인 페이지
+##### 로그인 페이지 - 이메일과 비밀번호를 받아와 로그인 할 수 있으며, 다른 방법으로는 깃허브 로그인이 포함돼있습니다.
 <img src="https://user-images.githubusercontent.com/90837142/209602714-e21af4f6-efdf-4404-9522-1a6cb159ac10.gif"></img>
 
-##### 회원가입 페이지
+##### 회원가입 페이지 - 이메일과 사용자 이름, 비밀번호를 작성하는 input이 있습니다.
 <img src="https://user-images.githubusercontent.com/90837142/209602796-8a1e90e2-d4d2-46bc-9f23-694dcc36bc80.gif"></img>
 
-##### 프로필 페이지
+##### 프로필 페이지 - 내가 쓴 글과 댓글리스트가 포함돼있습니다.
 <img src="https://user-images.githubusercontent.com/90837142/209602767-03bc13bd-552f-44af-a382-eac23c00fd23.gif"></img>
 
-##### 글작성 페이지
+##### 글작성 페이지 - 글을 작성할 때 필요한 제목과 카테고리, 글작성 공간이 포함돼있습니다.
 <img src="https://user-images.githubusercontent.com/90837142/209602819-57ba6a9a-fe81-416f-b0d8-7d92624bde80.gif"></img>
 
-###### 글상세보기 페이지
+###### 글상세보기 페이지 - 작성글의 내용을 볼 수 있습니다.
 <img src="https://user-images.githubusercontent.com/90837142/209602784-a52f2ef6-76c4-4cf3-85b8-6d62256ee994.gif"></img>
 
 ### 백엔드
@@ -119,7 +119,10 @@
 
 ### 결과 분석
 
+  #### 프론트엔드
   <p></p>
+  
+  #### 백엔드
 
 ### 유지 보수
   #### 프론트엔드
@@ -135,8 +138,15 @@
   
 ## 결과 및 발표 자료
 
-## 깃허브 주소
+### 깃허브 주소
 <a href="https://github.com/gbsw-spaghetti-coder">
   CODE WAVE
 </a>
 
+### 발표자료
+
+<a>프로젝트 계획서</a>
+<br />
+<a href="https://docs.google.com/presentation/d/18WSRXAldGHjtW72RHFuySpB5Duw_4gggjmJY8uFDsyo/edit?usp=sharing">중간 발표자료</a>
+<br />
+<a>최종 발표자료</a>
