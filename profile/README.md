@@ -34,12 +34,28 @@
 ## 팀원 소개
 
 <p>박경민 <br />
-- 팀장 <br />
+- 팀장 & 백엔드 <br />
 - kyungparkmin@naver.com <br />
-- <a href="github.com/kyungparkmin">깃허브</a>
+- <a href="https://github.com/kyungparkmin">깃허브</a>
 </p>
 
+<p>박민규 <br />
+- 팀원 & 프론트엔드 <br />
+- mingyu9570@gmail.com <br />
+- <a href="https://github.com/mingyu-0713">깃허브</a>
+</p>
 
+<p>권시경 <br />
+- 팀원 & 백엔드 <br />
+- kwonsigyeong0803@gmail.com <br />
+- <a href="https://github.com/kwonsigyeong">깃허브</a>
+</p>
+
+<p>김동혁 <br />
+- 팀원 & 프론트엔드 <br />
+- kdh1022255@gmail.com <br />
+- <a href="https://github.com/Hot-dong">깃허브</a>
+</p>
 
 ## 사용 기술
 ### 개발에 사용한 기술
