@@ -33,10 +33,12 @@
 
 ## 팀원 소개
 
-<p>박경민(팀장, 백엔드)</p>
-<p>권시경(팀원, 프론트엔드)</p>
-<p>김동혁(팀원, 프론트엔드)</p>
-<p>박민규(팀원, 프론트엔드)<p>
+<p>박경민 <br />
+- 팀장
+- kyungparkmin@naver.com
+</p>
+<a href="github.com/kyungparkmin">깃허브</a>
+
 
 ## 사용 기술
 ### 개발에 사용한 기술
@@ -52,7 +54,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></img>
 </p>
 
-## 프로젝트 일정
+## 프로젝트 진행과정
 
 <p>1주차 - 아이디어 회의, 로고 제작</p>
 <p>2주차 - 프론트엔드 디자인, DB ERD 제작</p>
@@ -67,7 +69,13 @@
 <p>11주차 - 프로젝트 최종확인</p>
 <p>12주차 - 최종발표 PPT 및, 대본 작성</p>
 
-### 레이아웃 디자인
+## 프로젝트 상세 소개
+
+### 레이아웃 세부설명
+
+
+### 데이터베이스
+<img src="https://spaghetti-listener.s3.ap-northeast-2.amazonaws.com/public/erd.png"></img>
 
 ## 프로젝트 추진 결과
 
@@ -92,9 +100,3 @@
   CODE WAVE
 </a>
 
-
-  
-  
-
-### 데이터베이스 설계
-<img src="https://spaghetti-listener.s3.ap-northeast-2.amazonaws.com/public/erd.png"></img>
