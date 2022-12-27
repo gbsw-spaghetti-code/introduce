@@ -90,30 +90,36 @@
 
 ### 레이아웃 세부설명
 
-#### 메인 페이지
+#### 프론트엔드
+
+##### 메인 페이지
 <img src="https://user-images.githubusercontent.com/90837142/209602746-e8cff9e7-e78e-46c3-86be-81b91e1ba7ab.gif"></img>
 
-#### 로그인 페이지
+##### 로그인 페이지
 <img src="https://user-images.githubusercontent.com/90837142/209602714-e21af4f6-efdf-4404-9522-1a6cb159ac10.gif"></img>
 
-#### 회원가입 페이지
+##### 회원가입 페이지
 <img src="https://user-images.githubusercontent.com/90837142/209602796-8a1e90e2-d4d2-46bc-9f23-694dcc36bc80.gif"></img>
 
-#### 프로필 페이지
+##### 프로필 페이지
 <img src="https://user-images.githubusercontent.com/90837142/209602767-03bc13bd-552f-44af-a382-eac23c00fd23.gif"></img>
 
-#### 글작성 페이지
+##### 글작성 페이지
 <img src="https://user-images.githubusercontent.com/90837142/209602819-57ba6a9a-fe81-416f-b0d8-7d92624bde80.gif"></img>
 
-#### 글상세보기 페이지
+###### 글상세보기 페이지
 <img src="https://user-images.githubusercontent.com/90837142/209602784-a52f2ef6-76c4-4cf3-85b8-6d62256ee994.gif"></img>
 
-### 데이터베이스
+### 백엔드
+
+##### 데이터베이스
 <img src="https://spaghetti-listener.s3.ap-northeast-2.amazonaws.com/public/erd.png"></img>
 
 ## 프로젝트 추진 결과
 
 ### 결과 분석
+
+  <p></p>
 
 ### 유지 보수
   #### 프론트엔드
