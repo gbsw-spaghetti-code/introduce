@@ -34,7 +34,7 @@
 ## 팀원 소개
 
 <p>박경민 <br />
-- 팀장
+- 팀장 <br />
 - kyungparkmin@naver.com
 </p>
 <a href="github.com/kyungparkmin">깃허브</a>
